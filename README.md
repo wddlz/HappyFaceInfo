@@ -9,7 +9,7 @@ Descriptions for the HappyFace project and paper that is too long to fit within 
 - Builtins ([Python 2](https://docs.python.org/2/library/__builtin__.html) | [Python 3](https://docs.python.org/3/library/builtins.html))
   - Built-in objects for Python 2 or 3, including built-in functions (`abs()`, `len()`), constants (`True`, `False`, `None`), and types like boolean operations (`or`, `and`, `not`), comparsion operations (`<`, `>`, `is`), and numeric types (`int`, `float`, `complex`).
 # Stylometric Features 
-- Derrived from [De-anonymizing Programmers via Code Stylometry, Caliskan et al.](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-caliskan-islam.pdf)
+- Derived from [De-anonymizing Programmers via Code Stylometry, Caliskan et al.](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-caliskan-islam.pdf)
   - We used the features present in tables 2, 3, and most features in table 4.
 # Wordgrams
 - Wordgrams extracted using regex to detect commonly used words in the code snippets.
