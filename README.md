@@ -21,6 +21,7 @@ Descriptions for the HappyFace project and paper that is too long to fit within 
 # Table of Features
 | Feature | Description  |
 | :---:   | :-: |
+| Frustration | Self-reported affect by programmer casting a vote on the HappyFace survey |
 | Wordgrams | Frequency of specfic words occuring in source code |
 | Each count of the following | Chars, underscores, tabs, spaces, and all whitespace in source code |
 | Lines start with comment | Frequency of lines starting with a comment |
